@@ -1,0 +1,24 @@
+{
+   "product" : {
+      "title" : "Alice in Wonderland",
+      "description" : "adwenture book",
+      "pictires" : [ 
+		{
+			"picture" : "Alice.jpg",
+      
+		},
+		{
+			"pictire" : "rabbit.jpg",
+      
+		}
+		],
+		"category" : {
+			"title" : "book",
+			"description" : "books in magazine",
+			"pictire" : "book.jpg",
+			"parent category" : "paper"
+		},
+			
+      "price" : 140
+   }
+}
