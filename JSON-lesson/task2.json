@@ -1,0 +1,23 @@
+{
+   "lesson" : {
+      "title" : "Math",
+      "description" : "lesson math",
+	  "obligatory": true,
+      "tasks" : [
+		"task":{
+			"title": "math",
+			"questions" :[
+			{
+				"qustion":"2+2=?",
+				"answer": 4
+			},
+			{
+				"qustion":"2+3=?",
+				"answer": 5
+			}],
+			"obligatory":true
+			
+			
+	  ]
+   }
+}
