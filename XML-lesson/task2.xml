@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+	<task id="1">
+		<title>math</title>
+		<questions>
+			<quetion id="1">2+2=?</question>
+			<answer id="1">4</answer>
+			<quetion id="2">2+3=?</question>
+			<answer id="2">5</answer>
+		</questions>
+		<obligatory>True</obligatory>
+	</task>
+</tasks>
+<lessons>
+	<lesson>
+		<title>Math</title>
+		<descriptions>lesson math</descriptions>
+		<obligatory>True</obligatory>
+		<tasks>
+			<task id="1">
+			<title>math</title>
+			<questions>
+				<quetion id="1">2+2=?</question>
+				<answer id="1">4</answer>
+				<quetion id="2">2+3=?</question>
+				<answer id="2">5</answer>
+			</questions>
+			<obligatory>True</obligatory>
+			</task>
+		</tasks>
+	</lesson>
+</lessons>
