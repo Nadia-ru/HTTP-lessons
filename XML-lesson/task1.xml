@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<parent:category>
+	<descendant:category id="book">
+		<title>book</title>
+		<description>books in magazine</description>
+		<pictire>book.jpg</pictire>
+	</category>
+</category>
+</categories>
+<product>
+	<title>Alice in Wonderlsnd</title>
+	<description>adventure book</description>
+	<pictires>
+		<pictire>Alice.jpg</pictire>
+		<pictire>rabbit.jpg</pictire>
+	</pictires>
+	<category id="book">book</category>
+	<price>139rub</price>
+</product>
